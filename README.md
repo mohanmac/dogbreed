@@ -1,5 +1,6 @@
-# dogbreed
-Dog Breed Classifier
+#Dog Breed
+
+
 Blog Post Link: 
 Motivation
 The project is aimed at developing an algorithm to identify the breed of a dog. Moreover, if the input image is a human one, the algorithm should rightly identify it so, and also spit out the closest resembling dog breed. Towards this end, various deep learning architectures along with other models are explored and fine-tuned.
