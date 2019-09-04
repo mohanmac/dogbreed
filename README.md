@@ -1,8 +1,11 @@
 Libraries Used : Pandas, Numpy, Scikit Learn, Scipy, ResNet, VGG, CNN, Keras, Tensorflow.
 
+link to the post : 
+
 Motivation for the Project : As this is a Capstone project in Udacity Data Scientist Nanodegree Program, the Dog breed classifier is very interesting as it uses all the bells and whistles of neural networks with CNN and also tranfer learning with ResNet.
 
-Files in the Repo :  
+Files in the Repo :  https://www.linkedin.com/pulse/identifying-dog-breeds-using-cnn-mac-mohan
+
 
 Readme.md         - Meta data (summary ) of the code that is available in the repo.
 dog_app.ipynb    - Python Notebook for the Solution, to create the model and test the same on dog breed images.
