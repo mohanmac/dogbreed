@@ -11,5 +11,5 @@ Summary of the Results : The model gave a pretty good accuracy of above 79.9% an
 
 Acknowledgements : To all my mentors and guides. Inspiration given by my family and colleagues.
 
-Code Details : Code detects dogs from other images, and  pretrained model like RESNET-50 with imagenet weights are used initially to create the detector. Once done, the vanilla CNN is created and fed with 4D tensors, for training. Once trained  the test accuracy is also validated. Hyper parameter tuning is done with RESNET for transfer learning and gets a accuracy of 79.90 %.
+Code Details : Code detects dogs from other images, and  pretrained model like RESNET-50 with imagenet weights are used initially to create the detector. Once done, the vanilla CNN is created and fed with 4D tensors, for training. Once trained  the test accuracy is also validated. Transfer learning is done with RESNET and gets a test accuracy of 79.90 %.
  
